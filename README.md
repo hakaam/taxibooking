@@ -18,5 +18,9 @@ ScreenShots
 
 ![summary](summary.PNG)
 
+5.PaymentMethodsPage
+
+![paymentmethods](paymentmethods.PNG)
+
 
 
